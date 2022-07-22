@@ -94,5 +94,5 @@ void loop()
 **2022 IEEE Calcutta Conference (CALCON)**
 
 
-**For More Info** 
+**For More** 
 - [Click here](https://drive.google.com/drive/folders/1aH3e5B0goLYNwEz7WpyysoAaFcEurzs4?usp=sharing)
