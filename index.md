@@ -24,7 +24,7 @@ monitor of the arduino IDLE.
 - [Aritro Ghosh (11705518041)](https://www.linkedin.com/in/aritro-ghosh-242305212/)
 ## Under Supervision of
 [Mr. Kalyan Biswas](https://www.linkedin.com/in/kalyan-biswas-921b8635/)
- -> Assistant Professor
+-> Assistant Professor
 
 Applied Electronics and Instrumentation
 Engineering Branch
