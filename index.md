@@ -37,6 +37,8 @@ RCC Institute of Information Technology
 4. LED
 5. Jumper wires
 ## ARDUINO CODE
+```
+{
 int a=0;
 
 void setup()
@@ -84,6 +86,8 @@ void loop()
    }
    }
 }
+}
+```
 
 ## Published By
 
