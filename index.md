@@ -29,7 +29,7 @@ monitor of the arduino IDLE.
 Applied Electronics and Instrumentation
 Engineering Branch
 
-RCC Institute of Information Technology(117)
+RCC Institute of Information Technology 117
 ## Components
 1. Arduino UNO
 2. MQ135 sensor
