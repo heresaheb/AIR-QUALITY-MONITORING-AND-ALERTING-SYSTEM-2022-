@@ -38,12 +38,12 @@ RCC Institute of Information Technology
 5. Jumper wires
 ## ARDUINO CODE
 ```
-{
-int a=0;
+   {
+   int a=0;
 
-void setup()
+   void setup()
 
-{
+   {
 
   pinMode(8,OUTPUT);   // to set up all the pins
   
@@ -53,25 +53,25 @@ void setup()
   
   Serial.begin(9600); // Baude rate
  
- }
+   }
 
-void loop()
-
-{
-
-  int val=analogRead(A1);
-
-  if (a==0)
+   void loop()
 
   {
 
-   Serial.println(val);
+  int val=analogRead(A1);
 
-   a=a+1;
+    if (a==0)
+
+  {
+
+     Serial.println(val);
+
+     a=a+1;
 
    }
 
-  if (a!=0)
+    if (a!=0)
   
   {
    
@@ -85,8 +85,8 @@ void loop()
     digitalWrite(7,LOW);
    }
    }
-}
-}
+   }
+   }
 ```
 
 ## Published By
